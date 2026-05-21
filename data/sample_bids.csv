@@ -1,0 +1,9 @@
+id,title,publish_date,deadline,region,source,url,summary,official_entry
+BID-2026-001,某市政务热线呼叫中心坐席扩容及外呼系统采购公告,2026-05-12,2026-06-05,广东深圳,公共资源交易中心,https://example.org/bids/contact-center-001,项目包含呼叫中心坐席扩容 外呼系统管理 通话录音及线路接入服务,https://example.org/official/contact-center-001
+BID-2026-002,客户通知短信通道服务采购项目比选公告,2026-05-15,2026-05-30,浙江杭州,中国移动采购与招标网,https://example.org/bids/sms-002,为会员通知和验证码场景采购短信通道 通信服务及发送质量保障,https://example.org/official/sms-002
+BID-2026-003,云通信语音线路与SIP中继资源服务采购,2026-05-08,2026-06-12,北京,阳光采购平台,https://example.org/bids/voice-003,采购云通信平台语音线路 SIP中继 号码资源接入和运维支撑,https://example.org/official/voice-003
+BID-2025-004,某医院总机语音线路续费项目成交前采购公告,2025-03-04,2025-03-20,四川成都,政府采购网,https://example.org/bids/expired-004,医院拟续采语音线路与通信服务 已完成报名窗口,https://example.org/official/expired-004
+BID-2026-005,转载 某园区线路资源合作征集信息,2026-05-16,2026-06-01,江苏南京,行业资讯转载站,https://example.org/reposts/line-005,信息提到线路资源合作和通信服务 需核对原始公告,
+BID-2026-006,机关打印机耗材与物业保洁联合采购,2026-05-17,2026-06-08,湖北武汉,政府采购网,https://example.org/bids/printer-006,采购打印机耗材 物业 保洁和食堂零星服务,https://example.org/official/printer-006
+BID-2026-007,数字服务平台能力升级项目市场调研公告,2026-05-18,2026-06-03,上海,供应商门户,https://example.org/bids/review-007,平台拟增强客户触达和接入能力 可能涉及通信服务与消息能力 方案待澄清,
+BID-2026-008,分支机构运营商专线及通信服务框架采购公告,2026-05-11,2026-06-18,山东济南,中国联通采购与招标网,https://example.org/bids/carrier-008,为多地办公点采购运营商专线 线路资源巡检和通信服务保障,https://example.org/official/carrier-008

@@ -1,0 +1,45 @@
+include_keywords:
+  - 语音线路
+  - 语音专线
+  - 短信通道
+  - 云通信
+  - 呼叫中心
+  - 外呼系统
+  - 运营商专线
+  - 通信服务
+  - 号码资源
+  - 线路资源
+  - SIP中继
+  - 语音网关
+  - 5G消息
+
+exclude_keywords:
+  - 打印机
+  - 物业
+  - 食堂
+  - 保洁
+  - 办公家具
+  - 空调维保
+
+high_value_keywords:
+  - 呼叫中心
+  - 外呼系统
+  - 短信通道
+  - 云通信
+  - 语音线路
+  - 运营商专线
+  - 号码资源
+  - SIP中继
+
+trusted_sources:
+  - 政府采购网
+  - 运营商官网
+  - 阳光采购平台
+  - 公共资源交易中心
+  - 中国移动采购与招标网
+  - 中国联通采购与招标网
+  - 中国电信阳光采购网
+
+min_score_follow: 70
+min_score_review: 35
+feishu_webhook_env: FEISHU_WEBHOOK_URL
